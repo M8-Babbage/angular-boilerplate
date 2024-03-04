@@ -5,6 +5,9 @@
 /tmp
 /out-tsc
 /bazel-out
+.angular
+package-lock.json
+pnpm-lock.yaml
 
 # Node
 /node_modules
